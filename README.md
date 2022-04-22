@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timotibagus
-- 🌱 I’m currently learning about devops
+- 🌱 I’m currently learning about DevOps
 - 📫 How to reach me timotibagus@outlook.com
 
 <!---
