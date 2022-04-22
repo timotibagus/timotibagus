@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timotibagus
-- 🌱 I’m currently learning about backend(node/golang)
+- 🌱 I’m currently learning about devops
 - 📫 How to reach me timotibagus@outlook.com
 
 <!---
